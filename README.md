@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-This repository contains the research and implementation for predicting and analyzing wildfire risks using geospatial data and machine learning algorithms. The thesis explores the synergy between climate reanalysis data (ERA5), vegetation indices (NDVI), and advanced predictive modeling to create robust fire risk assessment systems.
+This repository contains the research and implementation for predicting and analyzing wildfire risks using geospatial data and machine learning algorithms. **This project is conducted as part of a final dissertation at the University of Geneva.** The thesis explores the synergy between climate reanalysis data (ERA5), vegetation indices (NDVI), and advanced predictive modeling to create robust fire risk assessment systems.
 
 ## 🗂️ Project Structure
 
